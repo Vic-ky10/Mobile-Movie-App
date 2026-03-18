@@ -4,7 +4,7 @@ import React from 'react'
 const saved = () => {
   return (
     <View>
-      <Text>saved</Text>
+      <Text className='text-assent'>saved</Text>
     </View>
   )
 }
